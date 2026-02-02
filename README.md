@@ -1,4 +1,4 @@
-# PSI Calculator (Drift Detection) (AI Made) 📊
+# PSI Calculator (Drift Detection) 📊
 
 Módulo en Python para calcular el **Índice de Estabilidad Poblacional (PSI)** y detectar cambios drásticos en la distribución de datos (Data Drift) entre dos periodos.
 
@@ -24,3 +24,5 @@ Compara todas las columnas comunes entre dos DataFrames y devuelve una tabla de 
 
 ### `calculate_psi_column(expected, actual)`
 Calcula el valor escalar del PSI para una sola variable (array/serie).
+
+(AI Made)
